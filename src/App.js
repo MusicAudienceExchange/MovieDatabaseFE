@@ -2,6 +2,8 @@ import React from 'react';
 
 import HelloWorld from './components/HelloWorld'
 
+import './App.scss'
+
 /** Sampe API response */
 const GENRES = [
     "Adventure",
